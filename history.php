@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Silent Hunter Submarine Simulation Series - PMC Tactical</title>
+<title>Silent Hunter Submarine Simulation Series History - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Silent Hunter Submarine Simulation Series - PMC Tactical">
-<META name="keywords" content="Silent, Hunter, Submarine, Simulation, PMC, Tactical">
+<META name="description" content="Silent Hunter Submarine Simulation Series History - PMC Tactical">
+<META name="keywords" content="Silent Hunter, Submarine, Simulation, Series, History, PMC, Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,12 +16,18 @@
 <header>
 <?php include("../include/google-ads.php"); ?>
 <?php include("../include/paypal.php"); ?>
-<h1>Silent Hunter Submarine Simulation Series</h1>
+<h1><b>PMC Tactical Silent Hunter History</b></h1>
 </header>
 
 <section>
-<h2>Welcome to PMC Tactical Silent Hunter Series</h2>
-<a href="history.php">History</a>
+<h2>Silent Hunter History of Releases</h2>
+<p>Silent Hunter, February 29, 1996.<br>
+Silent Hunter 2, November 5, 2001.<br>
+Silent Hunter 3, March 15, 2005.<br>
+Silent Hunter 4, March 20, 2007.<br>
+Silent Hunter 5, March 2, 2010.
+</p>
+
 </section>
 
 <footer>
