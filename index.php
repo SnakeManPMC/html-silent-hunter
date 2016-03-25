@@ -22,6 +22,8 @@
 <section>
 <h2>Welcome to PMC Tactical Silent Hunter Series</h2>
 <a href="history.php">History</a>
+<br><br>
+<a href="silent-hunter-5-mods.php">Silent Hunter 5 MODs</a>
 </section>
 
 <footer>
