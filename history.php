@@ -28,6 +28,26 @@ Silent Hunter 4, March 20, 2007.<br>
 Silent Hunter 5, March 2, 2010.
 </p>
 
+<h2>History of Submarine Simulations</h2>
+<p>Above you can see specific Silent Hunter series release history with actual dates, below is the broad generic yearly history of sub sim releases over time. There has been more submarine games but these below are which matter.
+</p>
+
+<p>1983, Gato<br>
+1985, Silent Service<br>
+1987, The Hunt for Red October<br>
+1988, Red Storm Rising<br>
+1994, Aces of the Deep<br>
+1995, Command: Aces of the Deep<br>
+1996, Silent Hunter<br>
+1997, 688(I) Hunter/Killer<br>
+2001, Silent Hunter 2<br>
+2001, Sub Command<br>
+2005, Dangerous Waters<br>
+2005, Silent Hunter 3<br>
+2007, Silent Hunter 4<br>
+2010, Silent Hunter 5
+</p>
+
 </section>
 
 <footer>

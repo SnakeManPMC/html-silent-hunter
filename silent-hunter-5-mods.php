@@ -132,7 +132,7 @@ This mod decreases every campaigns goals approximately by 50-60% except for the 
 </section>
 
 <footer>
-<p>Back to <a href="index.php">Silent Hunter root page</a></p>
+<p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
 <?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?print(date("Y"));?>.</i></p>
