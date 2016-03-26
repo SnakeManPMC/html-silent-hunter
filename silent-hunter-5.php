@@ -27,6 +27,22 @@
 <p>Greatest graphics of all the Silent Hunter series or submarine simulations in general, naturally as this is the latest tile released.
 </p>
 
+<h2>Misc Tips</h2>
+<p>Type "silentotto" while you're in the campaign selection screen to unlock all campaigns
+</p>
+
+<p>Players presence within 60km of traffic generator nodes (mostly located in harbors) will prevent game engine to spawn any convoys or units which can lead to potential campaign corruption, so you should stay well off any major allied ports.
+</p>
+
+<p>Sticky destroyers are known game bug, save and reload the game will fix the issue. This bug appears sometimes, a destroyed starts to follow you around in south east direction at constant distance. You can do tricks like getting a near land so the destroyer runs aground and then you can torpedo him.
+</p>
+
+<p>When docking/ending a patrol the orange anchor icon doesn't appear, then save and reload the game. The "anchor" should appear.
+</p>
+
+<p>Use rotating save game file names like MySave1 through 4, always saving to the oldest file name in rotation. This way if you run into anything bad, being it a bug or bad tactical situation whatever, you can easily revert into more suitable save game status. Use also specific save game for all harbor dockings (remember you should not apply campaign mods file being on patrol, only at harbor).
+</p>
+
 </section>
 
 <footer>
