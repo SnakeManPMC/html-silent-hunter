@@ -21,13 +21,22 @@
 
 <section>
 <h2>Welcome to PMC Tactical Silent Hunter Series</h2>
-<p><a href="history.php">History</a>
-</p>
-
-<p><a href="silent-hunter-5-mods.php">Silent Hunter 5 MODs</a>
+<p><a href="history.php">History</a> of Silent Hunter series
 </p>
 
 <p><a href="pmc-submarine-simulation-history.php">PMC Submarine Simulation History</a>
+</p>
+
+<p><a href="silent-hunter-3.php">Silent Hunter 3</a>
+</p>
+
+<p><a href="silent-hunter-4.php">Silent Hunter 4</a>
+</p>
+
+<p><a href="silent-hunter-5.php">Silent Hunter 5</a>
+</p>
+
+<p><a href="silent-hunter-5-mods.php">Silent Hunter 5 MODs</a>
 </p>
 
 </section>
