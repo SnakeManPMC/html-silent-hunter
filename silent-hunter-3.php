@@ -30,6 +30,9 @@
 <p>SH3 enjoys large amounts of mods created over the years.
 </p>
 
+<p>No matter what nationality you are, australian, british, polish, american, japanese... no matter, you should always always select <b>German Language</b> from install options, as that is the only real way to play Silent Hunter U-Boot simulations! <b>JAWOHL HERR KALEUN!</b>
+</p>
+
 </section>
 
 <footer>

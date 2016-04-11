@@ -43,6 +43,9 @@
 <p>Use rotating save game file names like MySave1 through 4, always saving to the oldest file name in rotation. This way if you run into anything bad, being it a bug or bad tactical situation whatever, you can easily revert into more suitable save game status. Use also specific save game for all harbor dockings (remember you should not apply campaign mods file being on patrol, only at harbor).
 </p>
 
+<p>No matter what nationality you are, australian, british, polish, american, japanese... no matter, you should always always select <b>German Language</b> from install options, as that is the only real way to play Silent Hunter U-Boot simulations! <b>JAWOHL HERR KALEUN!</b>
+</p>
+
 </section>
 
 <footer>
