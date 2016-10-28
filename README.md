@@ -2,4 +2,4 @@
 
 Silent Hunter Submarine Simulation Series website
 
-[PMC Silent Hunter](http://tactical.nekromantix.com/silent-hunter/index.php)
+[PMC Silent Hunter](http://www.silenthunter.info/index.php)
