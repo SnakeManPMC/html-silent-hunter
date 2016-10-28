@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Tactical Silent Hunter History</b></h1>
 </header>
 
@@ -52,7 +51,6 @@ Silent Hunter 5, March 2, 2010.
 
 <footer>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
-<?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

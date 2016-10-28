@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Tactical Silent Hunter 5 MODs</b></h1>
 </header>
 
@@ -133,7 +132,6 @@ This mod decreases every campaigns goals approximately by 50-60% except for the 
 
 <footer>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
-<?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
