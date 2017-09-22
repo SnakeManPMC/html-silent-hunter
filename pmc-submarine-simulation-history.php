@@ -124,7 +124,7 @@
 <footer>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
 <br><br>
-<p><i>PMC Silent Hunter 2016 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC Silent Hunter 2016 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 
