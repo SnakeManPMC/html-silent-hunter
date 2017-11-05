@@ -44,7 +44,8 @@ Silent Hunter 5, March 2, 2010.
 2005, Dangerous Waters<br>
 2005, Silent Hunter 3<br>
 2007, Silent Hunter 4<br>
-2010, Silent Hunter 5
+2010, Silent Hunter 5<br>
+2017, Cold Waters
 </p>
 
 </section>

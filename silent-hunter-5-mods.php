@@ -19,28 +19,9 @@
 </header>
 
 <section>
-<h2>Subsim.com Forums</h2>
-<p>Subsim.com forums have been the main place for discussion and downloading of Silent Hunter mods since the beginning.
-</p>
+<h2>Overview on Silent Hunter 5 mods</h2>
 
-<p>However the topics posted there are horrific mess, it is so hard to read all the centered, crazily colored, underlined, etc you name it text. Usually a topic is started with all kinds of useless garbage info wall of text style and you are wondering what the hell is the mod about when you reach paragraph number 5 without any sign on such info, extremely frustrating.
-</p>
-
-<p>It is common trend to start a topic with a changelog, really? Who gives a fuck about changelog if you have no idea what is the mod about. Is it really that hard to write even one paragraph, hell even few words description about the mod.
-</p>
-
-<p>In a way the forums seem like a small village of people who all know each other and what everyone has been doing the previous day, a close circle where outsiders are dealt with disrespect (how the topics are written, no concern of new reader who is not all knowing seasoned veteran like regulars).
-</p>
-
-<p>One hilarious subsim quote to sum up the mod installation HORROR is: <i>follow all instructions in the first 5 posts</i>, hahah :)
-</p>
-
-<p>Another quote: <i><b>donate (at least 5 bucks) and you'll have access</b></i> -subsim.com
-<br><br>
-Yes its unfortunate that their forum has such pay to download restrictions, although this is not on all mods which is good. It is one thing if a mod author decides to ask money from his hard work but that a mirroring website asks money for simple downloads, err no...
-</p>
-
-<p>Its very sad that this is the main place to go for mods, someone really should clean up the forum posting styles or just make brand new Silent Hunter mod website with clean and easily understandable no-bullshit descriptions and design. Anyone interested?
+<p>Please read general overview of Silent Hunter 5 mods and the subsim modding and download community from our <a href="mods.php">silenthunter.info mods page</a>. Below you find just quick overview and short human readable descriptions about few selected mods (mostly so called mega mods).
 </p>
 
 <h2>sobers mega mod</h2>
@@ -115,17 +96,8 @@ This mod decreases every campaigns goals approximately by 50-60% except for the 
 <li>Tonnage to save/protect is changed/lowered</li>
 <li>Specific target missions,  Like sink 1 carrier is unchanged</li>
 </ul>
+
 <p>Germany victory goals is changed/lowered by 1 point on all campaigns. But you still need full stars/points for a full victory.
-</p>
-
-<h2>Overview of Mods</h2>
-<p>The above is only few selected mods overviews, more will be added once we decipher through the terrible forum topics in subsim.com forums, it is that difficult to find proper info on a mods over there.
-</p>
-
-<p>Also usually its best to use simple mega mod or just very few mods of your own choice. If you try to combine larger set of mods, then you run into the problem of getting file overwritting warnings as two mods modify the same file. It is better not to go down that road as it surely will give config problems for the game.
-</p>
-
-<p>The problem is that every mega mod has some features which you don't like or that they are missing one. So finding that mod balance is very difficult task indeed.
 </p>
 
 </section>

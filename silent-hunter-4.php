@@ -29,7 +29,7 @@
 <p>Since the modern Silent Hunter games 3 and 5 are both U-Boat stuff, SH4 is nice change where you get to play American skippers in Pacific. This game has odd movie grain type effect applied to it, you can decide if its good or bad.
 </p>
 
-<p>Purchase SH4 from gamersgate, digital download and the version is Gold Edition which includes U-Boat missions and v1.5 patch. At March 2016 it costs 14.99 euros.
+<p>Purchase SH4 from <a href="https://www.gamersgate.com/DD-SH4GE/silent-hunter-4-gold-edition">gamersgate, digital download and the version is Gold Edition</a> which includes U-Boat missions and v1.5 patch.
 </p>
 
 </section>

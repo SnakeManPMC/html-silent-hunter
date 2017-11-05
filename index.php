@@ -26,16 +26,16 @@
 <p><a href="pmc-submarine-simulation-history.php">PMC Submarine Simulation History</a>
 </p>
 
+<p><a href="mods.php">Silent Hunter Mods in general</a>
+</p>
+
 <p><a href="silent-hunter-3.php">Silent Hunter 3</a>
 </p>
 
-<p><a href="silent-hunter-4.php">Silent Hunter 4</a>
+<p><a href="silent-hunter-4.php">Silent Hunter 4</a>, <a href="silent-hunter-4-mods.php">mods</a> and <a href="silent-hunter-4-downloads.php">downloads</a>.
 </p>
 
-<p><a href="silent-hunter-5.php">Silent Hunter 5</a>
-</p>
-
-<p><a href="silent-hunter-5-mods.php">Silent Hunter 5 MODs</a>
+<p><a href="silent-hunter-5.php">Silent Hunter 5</a> and <a href="silent-hunter-5-mods.php">mods</a>
 </p>
 
 </section>

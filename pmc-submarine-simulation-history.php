@@ -119,6 +119,12 @@
 <p>Since then I completed my first full SH5 campaign using the Lite LC campaign and few other mods. I made a few videos of this to <a href="https://www.youtube.com/user/pmcsince1984">PMC youtube channel</a> so check them out.
 </p>
 
+<p>Cold Waters was released 2017. Played it a bit, but had kind of mixed feelings, in overall its OK but still when you get right down to it... Cold Waters is just so arcadey.
+</p>
+
+<p>On summer of 2017 finally purchased Silent Hunter 4 and played little bit. It does show its age, but its still nice pacific American theme as its been for over a decade just U-Boot jawohl german stuff in atlantic.
+</p>
+
 </section>
 
 <footer>
