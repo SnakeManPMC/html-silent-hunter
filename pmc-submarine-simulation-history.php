@@ -97,7 +97,10 @@
 <p>Again nothing had changed I waited this release like crazy and getting the release to my HDD was beyond madness heh (maybe sometime I'll write about it).
 </p>
 
-<p>However when I launched the game the first time, I got surprise as my computer did not manage to run it smoothly... it did run it, but it was such a low performance stutter that you could not enjoy it. I turned all the details to minimum or disabled but still it ran slow, my computer was just simply outdated as it was from 2004 so over three years old. So unfortunately I left SH4 playing pretty much after few days of trying it out, to this date (March 2016) I have not played it normally.
+<p>However when I launched the game the first time, I got surprise as my computer did not manage to run it smoothly... it did run it, but it was such a low performance stutter that you could not enjoy it. I turned all the details to minimum or disabled but still it ran slow, my computer was just simply outdated as it was from 2004 so over three years old. So unfortunately I left SH4 playing pretty much after few days of trying it out.
+</p>
+
+<p>On summer of 2017 finally purchased Silent Hunter 4 and played little bit. It does show its age, but its still nice pacific American theme as its been for over a decade just U-Boot jawohl german stuff in atlantic.
 </p>
 
 <h2>Silent Hunter 5</h2>
@@ -119,10 +122,8 @@
 <p>Since then I completed my first full SH5 campaign using the Lite LC campaign and few other mods. I made a few videos of this to <a href="https://www.youtube.com/user/pmcsince1984">PMC youtube channel</a> so check them out.
 </p>
 
-<p>Cold Waters was released 2017. Played it a bit, but had kind of mixed feelings, in overall its OK but still when you get right down to it... Cold Waters is just so arcadey.
-</p>
-
-<p>On summer of 2017 finally purchased Silent Hunter 4 and played little bit. It does show its age, but its still nice pacific American theme as its been for over a decade just U-Boot jawohl german stuff in atlantic.
+<h2>Cold Waters</h2>
+<p>Cold Waters was released 2017. Played it a bit, but had kind of mixed feelings, in overall its OK but still when you get right down to it... Cold Waters is just so arcadey. It was not until the South China Sea upgrade was released when I really got into Cold Waters. In summer of 2018 I played a lot as you can see from <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefksdYFKYmp4G7xTUK4-wUrO" target="_blank">PMC Cold Waters youtube playlist</a> heh.
 </p>
 
 </section>

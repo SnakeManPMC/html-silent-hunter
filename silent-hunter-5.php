@@ -23,7 +23,7 @@
 <p>Latest released version is v1.2. Silent Hunter 5 (SH5) at 2016 is the latest German U-Boot simulator released.
 </p>
 
-<p>Greatest graphics of all the Silent Hunter series or submarine simulations in general, naturally as this is the latest tile released.
+<p>Greatest graphics of all the Silent Hunter series or submarine simulations in general, naturally as this is the latest title released.
 </p>
 
 <h2>Misc Tips</h2>
