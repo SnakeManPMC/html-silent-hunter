@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Silent Hunter Submarine Simulation Series</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>Welcome to PMC Tactical Silent Hunter Series</h2>
 <p><a href="history.php">History</a> of Silent Hunter series
 </p>
@@ -38,13 +41,17 @@
 <p><a href="silent-hunter-5.php">Silent Hunter 5</a> and <a href="silent-hunter-5-mods.php">mods</a>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

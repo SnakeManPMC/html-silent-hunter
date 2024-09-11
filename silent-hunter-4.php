@@ -13,11 +13,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 	<h1>PMC Tactical Silent Hunter 4</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Silent Hunter 4</h2>
 
 <p>
@@ -40,13 +43,17 @@ Purchase SH4 from <a href="https://www.gamersgate.com/product/silent-hunter-iv-w
 Note: when the above link goes dead just go to gamersgate.com and search for "silent hunter 4 gold edition".
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

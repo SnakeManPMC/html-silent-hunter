@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Tactical Silent Hunter 5 MODs</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>Overview on Silent Hunter 5 mods</h2>
 
 <p>Please read general overview of Silent Hunter 5 mods and the subsim modding and download community from our <a href="mods.php">silenthunter.info mods page</a>. Below you find just quick overview and short human readable descriptions about few selected mods (mostly so called mega mods).
@@ -100,13 +103,17 @@ This mod decreases every campaigns goals approximately by 50-60% except for the 
 <p>Germany victory goals is changed/lowered by 1 point on all campaigns. But you still need full stars/points for a full victory.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

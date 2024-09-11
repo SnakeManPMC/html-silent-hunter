@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>PMC Tactical Silent Hunter 4 (SH4) Mod Downloads</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>SH4 Mod Downloads</h2>
 
 <p>
@@ -59,13 +63,17 @@ Updated_Newly_Revised_Environmental_Mod.7z readme didn't include authors name, f
 If you have mods that you want to get added in this download page, please send them to us and we'll be happy to include them, or if you happen to know more details about these downloads please send that info as well.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Tactical Silent Hunter MODs</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>Subsim.com Forums</h2>
 <p>Subsim.com forums have been the main place for discussion and downloading of Silent Hunter mods since the beginning.
 </p>
@@ -57,13 +60,17 @@ BTW: We most likely will not add Silent Hunter 3 mod overviews because even thou
 <p>The problem is that every mega mod has some features which you don't like or that they are missing one. So finding that mod balance is very difficult task indeed.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

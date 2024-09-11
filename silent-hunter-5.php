@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Tactical Silent Hunter 5</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>Silent Hunter 5</h2>
 <p>Latest released version is v1.2. Silent Hunter 5 (SH5) at 2016 is the latest German U-Boot simulator released.
 </p>
@@ -45,13 +48,17 @@
 <p>No matter what nationality you are, australian, british, polish, american, japanese... no matter, you should always always select <b>German Language</b> from install options, as that is the only real way to play Silent Hunter U-Boot simulations! <b>JAWOHL HERR KALEUN!</b>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

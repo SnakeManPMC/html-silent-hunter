@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Submarine Simulation History Since 1980's</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>It's History</h2>
 <p>My earliest submarine faschination memories from my childhood are when I was reading some WWII magazines in shop (too cheap/poor to purchase them) about submarine attacks on surface ships, I was really interested about ocean underwater world and submarines. It was quite while before I got to play my first submarine simulation.
 </p>
@@ -126,13 +129,17 @@
 <p>Cold Waters was released 2017. Played it a bit, but had kind of mixed feelings, in overall its OK but still when you get right down to it... Cold Waters is just so arcadey. It was not until the South China Sea upgrade was released when I really got into Cold Waters. In summer of 2018 I played a lot as you can see from <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefksdYFKYmp4G7xTUK4-wUrO" target="_blank">PMC Cold Waters youtube playlist</a> heh.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC Silent Hunter root page</a></p>
 <br><br>
 <p><i>PMC Silent Hunter 2016 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
